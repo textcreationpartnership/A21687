@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The seuerall rates and taxations for wages made and set forth by the iustices of peace, of the countye of Northampton.</title>
+            <author>Northampton (England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1566</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21687</idno>
+            <idno type="STC">STC 7995.5</idno>
+            <idno type="STC">ESTC S2589</idno>
+            <idno type="EEBO-CITATION">24346309</idno>
+            <idno type="OCLC">ocm 24346309</idno>
+            <idno type="VID">27547</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21687)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 27547)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1850:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The seuerall rates and taxations for wages made and set forth by the iustices of peace, of the countye of Northampton.</title>
+                  <author>Northampton (England)</author>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Richard Iugge and Iohn Cawood ...,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1566]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"By the Privy Council"--STC (2nd ed.).</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: Anno 1566 mense Iunij.</note>
+                  <note>Reproduction of original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wages --  Law and legislation --  England --  Northampton.</term>
+               <term>Northampton (England) --  History.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <div type="preamble">
+               <pb facs="tcp:27547:1" rendition="simple:additions"/>
+               <head>¶ The ſeuerall Rates and Taxations for wages, <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e and ſet forth by the Iuſtices of peace, of the Countye of Northampton.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Here in the Parliament holden at Weſtmynſter the .xii. day of Ianuary, in the fifth yere of the reigne of our ſoueraigne Lady the Quenes Maieſty it was enacted by the Quene our ſayd ſoueraigne Lady, the Lordes ſpirituall, and temporal, and the commons in that par<g ref="char:EOLhyphen"/>liament aſſembled, that the Iuſtices of the peace of euery ſhyre, Riding, and liberty within the limites of theyr ſeuerall commiſſions, or the more part of them, being reſiaunt wythin the ſame, and the ſheriffe of the countie yf he conuenientlye myghte, and euerye Mayor Bayliffe, or other head officer within any Citie or towne corporate, wherin is any Iuſtices of the peace wythin the limittes of the ſayd Citie or Towne, ſhould by force of the ſaid act, yerely after Eaſter at tymes conuenient appoynted by the ſame, aſſemble them ſelues together, and callynge before them ſuch diſcrete and graue perſons of the ſayd Countie, Citie and Towne, as they ſhould thinke meete, and conferring toge<g ref="char:EOLhyphen"/>ther, reſpecting the plenties or ſcarſitie of the time, and other circumſtances neceſſarily to be conſidered, ſhould by vertue of the ſayd Act, within the limittes and precinctes of theyr ſeuerall Commiſſions, limytte, rate, and appoint the wages, aſ<g ref="char:EOLhyphen"/>well of ſuch and ſo many of the ſayd artificers, handie craftes men, huſbandmen, or any other labourer, ſeruaunt, or work<g ref="char:EOLhyphen"/>men, whoſe wages in tymes paſt hath bene by any lawe or ſtatute rated &amp; appoynted, as alſo the wages of all other labo<g ref="char:EOLhyphen"/>rers, artificers, workemen or apprentices of huſbandry, which haue not bene rated, as the ſame Iuſtices, Mayors, or head officers within theyr ſeuerall commiſſions or liberties, ſhoulde thinke meete by theyr diſcretions to be rated, lymytted, or appoynted. And the ſame rates and taxations ſhould certifie into the Quenes highnes courte of Chauncery, before a cer<g ref="char:EOLhyphen"/>tayne day, limitted in the ſayde acte. Wherevpon it ſhoulde be lawefull for the Lorde Chaunceloure or Lorde Keper of the great ſeale of Englande for the tyme being, vpon declaration thereof to her highnes, her Heyres, or Succeſſours, or to the lordes and others of her Maieſties priuie councel, to cauſe Proclamations to be printed and ſent downe into euery of the ſayd ſhyres and places, conteyning the ſeuerall rates appointed by the ſayde Iuſtices and other head officers, commaun<g ref="char:EOLhyphen"/>dyng thereby, in her highnes name, al perſons ſtraightly to obſerue and kepe the ſame, vpon the danger of the puniſhme<g ref="char:cmbAbbrStroke">̄</g>t and forfaytures limitted and appoynted by the ſayd Act and ſtatute.</p>
+               <p>And where alſo it is further enacted by the aucthoritie aforeſayde, that all maner of perſon &amp; perſons after ſuch Procla<g ref="char:EOLhyphen"/>mation made, ſhould obſerue and kepe the ſaid rates for wages, vpon paine of the forfaitures &amp; penalties conteined in the ſame eſtatute, vntill further order by proclamation, according to the purport of the same eſtatute, it ſhould be otherwiſe or<g ref="char:EOLhyphen"/>dered &amp; proclaymed, wherfore the Quenes Maieſtie hauyng receyued into her ſayd Court of Chauncery amongeſt diuers other Certificates, from ſundrye of her hyghnes Shieres, Cityes and Townes, one certificate from her hyghnes County of Northampton, conteynyng the Rates for wages hereafter folowynge, made and appoynted by the Iuſtices of thys her ſayd County of Northampton, accordyng to the tenor of the ſame Acte. And myndyng to haue the ſame rates put in execution in all pointes, as by the proceſſe of the ſame acte is preſcribed, lyke as her Maieſty hath and intendeth to do in all other her hyghnes Countyes and Shyres, and other places of libertye within thys her Realme: <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>refore her highnes ſtraightlye chargeth and commaundeth all maner of perſon and perſons within her ſayde County of Northampton, to kepe and obſerue in all poyntes, the ſayd rates, taxations, orders, and appointmentes for wa<g ref="char:EOLunhyphen"/>ges hereafter folowyng, and ſet forthe, vpon the paines and forfaitures appointed by the ſaide eſtatute, and vpon payne of her highnes diſpleaſure.</p>
+               <p>And further her hyghnes pleaſure and expreſſe commaundement is, that all Iuſtices of peace, Sheriffes, and other heade officers of her ſayd County of Northampton, ſhall ſee, and cauſe the ſame Rates duelye and ſeuerelye to be obſerued and kept in all poyntes: And thys Proclamation to be vſed in euery behalfe accordynge to the tenor and effect of the ſame act. And her Maieſties further pleaſure and commaundemente is, that if any queſtion, ſcruple, or doubt, ſhall aryſe vppon my of the taxations or rates for this her ſaid County of Northampton, herevnder mentioned: That then the ſame ſhalbe reſolued and determined by her hyghnes Iuſtices of peace that dyd make and ordayne the ſame taxations and rates: <unclear>and that all perſons ſhall perfourme and kepe the ſame reſolutions orders and determinations</unclear> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb facs="tcp:27547:2" rendition="simple:additions"/>
+reſolued and determined by her hyghnes Iuſtices of peace that dyd make and ordayne the ſame taxations and rates: and that all perſons ſhall perfourme and kepe the ſame reſolutions, orders, and determinations, ſo by them to be made and determined touchyng the ſame.</p>
+            </div>
+            <div type="ordinances">
+               <head>The Countie of Northampton.</head>
+               <argument>
+                  <p>¶ Hereafter enſueth the certificate of the Iuſti<g ref="char:EOLhyphen"/>ces of Peace within the Countie of Northampton, touching thorder and rate taken by them, concernyng the wa<g ref="char:EOLhyphen"/>ges of Artificers, Labourers, and Seruantes of huſbandrie, and of other workemen, according to the acte made in the laſt Seſſion of Parliament holden at Weſtminſter in the fyfthe yere of the reigne of our Soueraigne Lady the Quene.</p>
+               </argument>
+               <div type="part">
+                  <head>Artificers.</head>
+                  <p>
+                     <seg rend="decorInit">F</seg>Ree maſons, Carpenters, Ioyners, Caruers, Sawiers, Whelewrightes, Ropers, Coller makers, Brickelaiers, Roughe maſons, Bowiers, Plumbers, Canners, Glaſiers, Curriers, Bakers, Boochers, Shomakers, Plaſterers, Tylers, Sla<g ref="char:EOLhyphen"/>ters, Tailors, Glouers, Turners, Fletchers, Sadlers and Coupers, the beſt ſort, by the daie from the middeſt of September vnto the middeſt of Marche, with meat and drinke .iiii. d. without .vii. d. From the middeſt of Marche vnto the middeſt of September, with meat and drinke .vi. d. without .viii. d. By the whole yere with Liuerie .xl. s. Without Liuerie .xlvi. s .viii. d.</p>
+                  <p>The ſecond ſort by the day from the middeſt of September to the middeſt of March with meate and drinke .iii. d. Without .vi. d. From the middeſt of Marche to the middeſt of September with meat and drinke .v. d. Wihout .vii. d. With liuerie xxxiii. s .iiii. d. Without .xl. s</p>
+                  <p>Maiſter Carpenter, Plumber, Freemaſon hauing three or foure men, and able to take charge of worke with meate and drink .vi. d. Without .x. d. according to the rate: and in Winter .iiii. d. with meat &amp; drink, &amp; without .viii. d.</p>
+               </div>
+               <div type="part">
+                  <head>Laborers all the yere.</head>
+                  <p>Common Laborers by the day, from the middeſt of September to the middeſt of Marche, with meate and drinke ii. d. without .iiii. d. From the middeſt of Marche vnto the middeſt of September with meat and drinke .iii. d. without .vi. d.</p>
+                  <p>Thatchers, Latherenders, Moletakers, by the day from the middeſt of September vnto the middeſt of Marche with meate and drinke .iiii. d. without .vi. d. From the middeſt of Marche vnto the middeſt of September with meat and drinke .iiii. d. without .vi. d.</p>
+               </div>
+               <div type="part">
+                  <head>Seruauntes.</head>
+                  <p>A Carter which vſeth cariage by the highe waie, with liuery .xl. without liuerie .xlvi. s .viii. d.</p>
+                  <p>A Seruant able to be a Bailife of Huſbandrie, with liuerie .xxxiii. s .iiii. d. without liuerie .xl. s.</p>
+                  <p>A Hinde ſeruant of the beſt ſorte, with liuerie .xxvi. s .viii. d. without liuerie .xxxiii. s .iiii. d.</p>
+                  <p>A Hynd ſeruant of the ſecond ſort with liuerie .xx. s. Without liuerie .xxv. s.</p>
+                  <p>A Mayde ſeruant of the beſt ſort with liuery .xvi. s. Without liuerie .xx. s.</p>
+                  <p>A Mayde ſeruant of the ſecond ſort, with liuerie .xii. s. Without liuerie .xvi. s.</p>
+               </div>
+               <div type="part">
+                  <head>A Mowier by the daie.</head>
+                  <p>A mowier of Corne or Graſſe, with meat and drinke .v. d. without .viii. d.</p>
+                  <p>A man reaping Corne, with meat and drinke .iiii. d. without .vii. d.</p>
+                  <p>A woman reaping Corne, with meat and drinke .iii. d. without .v. d.</p>
+                  <p>A man for Haie or harueſt workes, with meate and drinke .iii. d. without .vi. d.</p>
+                  <p>A woman for the lyke workes, with meate and drinke .ii. d. without .iiii. d.</p>
+                  <p>A mowier of Graſſe well growen, for euery acre .viii. d. Barley and Otes, for euery acre wel growen .iiii. d. Beanes Peaſe, Fetches, and ſuche like, for euery acre .v. d. Wheate, Rye, Stoble, and Hawme for euery acre .v. d.</p>
+                  <p>A Reaper for reaping, bynding and laying in ſhockes, Wheate and Rie, for euery acre .v. s.</p>
+                  <p>A Threſher of Wheate and Rye, for euery quarter .vi. d. Barley and Otes, for euery quarter .iiii. d. Beanes and Peaſe for euery quarter .v. d.</p>
+                  <p>For making a quicke hedge well plaſhed, for euery Pole conteyning .xviii. foote .ii. d.</p>
+                  <p>A dead hedge well made, for euery Pole conteyning .xviii. foote .i. d. ob.</p>
+                  <p>For making a Diche out of the grounde, being .iii. foote depe .iiii. foote wide, and one foote wide in the botome, and double ſet with quicke ſett, for euery Pole .v. d.</p>
+                  <p>And for a dyche of .iii. foote wide and .ii. foote and a halfe depe, with lyke quicke ſette, for euery pole .iiii. d.</p>
+                  <p>A Plowe wright for aring euery Carte .iiii. d. And making euery Ploughe .vii. d.</p>
+                  <p>A Lathe render, for euery. C. Lathe well made .ii. d. ob.</p>
+                  <p>A maker of Fagottes, for euery. C. Fagottes .ix. d</p>
+                  <p>Sawiers for ſawing of Bordes, for euery. C .xvi. d. for ſawing of ſlit worke, euery. C .xviii. d.</p>
+                  <p>A Myller that can take charge to cogge and rounde, and to laie on newe Mylſtones, and all other thinges per<g ref="char:EOLhyphen"/>teyning to a Myller .xl. s.</p>
+                  <p>A Myller of the ſecond ſorte .xxxiii. s .iiii. d.</p>
+                  <p>A Sheparde of the beſte ſorte for the Fallowe fielde .xxx. s.</p>
+                  <p>And it is thought good by vs the Iuſtices, that in that parte of the Syre where any leſſe wages of late time hath bene vſually geuen or taken then is aboue limitted and appointed, that the ſame leſſe wages to be continued. Any rate of wages herein lymitted and appointed to the contrarie notwithſtanding.</p>
+               </div>
+            </div>
+            <closer>God ſaue the Quene.<lb/>
+               <dateline>
+                  <date>Anno. 1566. Menſe Iunij.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶Imprinted at London by Richard Iugge and Iohn Cawood Printers to the Quenes Maieſtie.</p>
+         </div>
+         <div type="license">
+            <p>Cum priuilegio Regiae Maieſtatis.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
